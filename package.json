@@ -9,5 +9,10 @@
     "npm-goutamsingh-modules"
   ],
   "author": "Goutam Prakash Singh",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gautampsingh/goutamsingh-npm.git"
+  },
+  "homepage": "https://github.com/Gautampsingh/goutamsingh-npm"
 }
