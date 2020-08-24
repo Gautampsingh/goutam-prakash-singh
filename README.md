@@ -7,7 +7,11 @@ Modules includes the features:
 3. MergeSort
 4. bubbleSort,
 5. selectionSort,
-6. iterativeBinarySearch
+6. heapSort
+7. quickSort
+8. utcLocalDate
+9. iterativeBinarySearch
+10. interpolationSearch
 
 # Steps to include this dependency module in your package
 
