@@ -1,0 +1,13 @@
+{
+  "name": "goutam-prakash-singh",
+  "version": "1.0.2",
+  "description": "This is goutam custom modules!",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "goutam-modules",
+    "npm-goutamsingh-modules"
+  ],
+  "author": "Goutam Prakash Singh",
+  "license": "ISC"
+}
