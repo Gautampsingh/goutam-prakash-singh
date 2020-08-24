@@ -1,1 +1,2 @@
-# goutam-prakash-singh module includes most of the common features
+# Npm module - goutam-prakash-singh
+# Modules includes the features: Palindrome, RearrangePalidrome, MergeSort
